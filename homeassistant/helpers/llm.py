@@ -477,6 +477,7 @@ def _get_exposed_entities(
         "unit_of_measurement",
         "device_class",
         "current_position",
+        "current_tilt_position",
         "percentage",
         "volume_level",
         "media_title",
